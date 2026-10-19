@@ -239,7 +239,7 @@ a {
 }
 
 
-.product-card {
+.card {
     border:0
 }
 
@@ -271,14 +271,14 @@ a {
 }
 
 
-.product-card h3 {
+.card h3 {
     font-size:1rem;
     font-weight:800;
     margin:15px 0 5px
 }
 
 
-.product-card .price {
+.card .price {
     color:var(--muted);
     font-size:.93rem
 }
